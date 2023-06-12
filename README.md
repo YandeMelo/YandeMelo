@@ -1,7 +1,7 @@
 ### Olá! Eu me chamo Yan Melo 👋
 
 - 🔭 Atualmente sou estudante de Engenharia da Computação
-- 🌱 Aprendendo e estudando Node.js
+- 🌱 Aprendendo e estudando Node.js e desenvolvimento em Python e Java
 - 🤔 Procurando por novas oportunidades de aprendizado
 - ✨ Desejando entrar para o mercado de trabalho
 
