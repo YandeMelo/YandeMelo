@@ -15,7 +15,7 @@
     <img align="center" alt="Yan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Yan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="Yan-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-    <img align="center" alt="Yan-Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
+    <img align="center" alt="Yan-Kotlin" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
     <img align="right" alt="Yan-gif" height="100" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/931984117652946988/931984156492197918/d47babc4a6066749430a4a4e3abfd8b4.gif">
     <img align="right" alt="Yan-gif" height="60" style="border-radius:50px;" 
          src="https://cdn.discordapp.com/attachments/931984117652946988/931984946967494666/hi-hello.gif">
