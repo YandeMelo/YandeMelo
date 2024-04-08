@@ -1,7 +1,7 @@
 ### Olá! Eu me chamo Yan Melo 👋
 
 - 🔭 Atualmente sou estudante de Engenharia da Computação
-- 🌱 Aprendendo e estudando desenvolvimento em Python e Java
+- 🌱 Aprendendo e estudando desenvolvimento em Java (Spring e SpringBoot) e Python (Django)
 - 🤔 Procurando por novas oportunidades de aprendizado
 - ✨ Desejando entrar para o mercado de trabalho
 
