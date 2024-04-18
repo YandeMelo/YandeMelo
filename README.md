@@ -2,7 +2,7 @@
   <div style="margin-right: 20px;">
     <h2>Olá! Eu me chamo Yan Melo 👋</h2>
 <img src="https://i.imgur.com/63w2asY.jpeg" alt="Sua imagem" align="right" style="width: 220px; height: 220px;">
-    <p>
+    <p style="font-size: 18px;">
       - 🔭 Estudante de Engenharia da Computação na Universidade de Pernambuco.<br>
       - 🌱 Estudando sobre desenvolvimento em Java (Spring e SpringBoot) e React (TypeScript).<br>
       - 🤔 Procurando por novas oportunidades de aprendizado.<br>
