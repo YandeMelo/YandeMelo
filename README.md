@@ -1,39 +1,3 @@
-<!DOCTYPE html>
-<html lang="pt-br">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      font-size: 16px;
-      line-height: 1.6;
-      color: #333;
-    }
-
-    h3 {
-      font-size: 24px;
-      font-weight: bold;
-      color: #0077B5; 
-      border-bottom: 2px solid #0077B5; 
-      padding-bottom: 5px; 
-    }
-
-    p {
-      font-size: 18px;
-      color: #666;
-    }
-
-    a {
-      text-decoration: none;
-      color: #0077B5;
-    }
-
-    </style>
-</head>
-<body>
-
 <div style="display: flex; align-items: center;">
   <div style="margin-right: 20px;">
     <h3>Olá! Eu me chamo Yan Melo 👋</h3>
@@ -44,12 +8,12 @@
       - ✨ Desejando entrar para o mercado de trabalho.
     </p>
   </div>
-  <img src="https://i.imgur.com/63w2asY.jpeg" alt="Sua imagem" style="width: 220px; height: 220px; float: right; margin-left: 20px;">
+  <img src="https://i.imgur.com/63w2asY.jpeg" alt="Sua imagem" style="width: 220px; height: 220px; float: right;">
 </div>
 
-<h2>Tecnologias e Ferramentas 👨‍💻</h2>
+## Tecnologias e Ferramentas 👨‍💻
 
-<h3>Frameworks</h3>
+### Frameworks
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" style="filter: brightness(400%)">
@@ -58,7 +22,9 @@
   <img align="center" alt="Maven" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg">
 </div>
 
-<h3>Linguagens</h3>
+
+
+### Linguagens
 <div style="display: inline_block"><br>
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
@@ -71,14 +37,21 @@
   <img align="center" alt="CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 </div>
 
-<h3>Bancos de Dados</h3>
+
+
+### Bancos de Dados
 <div style="display: inline_block"><br>
   <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="SQLite" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg">
 </div>
 
-<h3>Ferramentas</h3>
+
+
+### Ferramentas
+
+<img src="https://i.imgur.com/UzqqqD1.gif" alt="Mundinho" style="width: 160px; height: 90px; float: right; margin-top: 20px; margin-left: 20px;">
+<img src="https://i.imgur.com/7xFFfVM.gif" alt="HelloWorld" style="width: 160px; height: 90px; float: right; margin-top: 20px; margin-left: 20px;">
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" >
@@ -93,7 +66,9 @@
   
 </div>
 
-<h2>Contate-me</h2>
+
+
+## Contate-me
 
 <div> 
   <a href="https://instagram.com/yan_melo" target="_blank">
@@ -107,5 +82,4 @@
   </a> 
 </div>
 
-</body>
-</html>
+
