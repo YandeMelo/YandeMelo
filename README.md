@@ -1,4 +1,4 @@
-  <img src="https://i.imgur.com/63w2asY.jpeg" alt="Sua imagem" div align="right" style="width: 220px; height: 220px; float: right;">
+ <img src="https://i.imgur.com/63w2asY.jpeg" alt="Personagem" align="right" style="width: 220px; height: 220px; margin-bottom: 20px;">
 <div style="display: flex; align-items: center;">
   <div style="margin-right: 20px;">
     <h2>Olá! Eu me chamo Yan Melo 👋</h2>
