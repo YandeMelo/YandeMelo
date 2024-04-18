@@ -1,5 +1,5 @@
 <div style="display: flex; align-items: center;">
-  <img src="https://i.imgur.com/63w2asY.jpeg" alt="Sua imagem" div align="right" style="width: 220px; height: 220px; float: right;">
+  <img src="https://i.imgur.com/63w2asY.jpeg" alt="Sua imagem" div align="right" style="width: 220px; height: 180px; float: right;">
   <div style="margin-right: 20px;">
     <h3>Olá! Eu me chamo Yan Melo 👋</h3>
     <p>
