@@ -68,19 +68,18 @@
 </div>
 
 
-
 ## Contate-me
 
 <div> 
-  <a href="https://instagram.com/yan_melo" target="_blank">
+  <a href="https://instagram.com/yan_melo" target="_blank" style="text-decoration: none;">
     <img src="https://i.imgur.com/6iaI6Cz.png" target="_blank" height="60" width="60">
   </a>
-  <a href="mailto:ymm@ecomp.poli.br">
+  <a href="mailto:ymm@ecomp.poli.br" style="text-decoration: none;">
     <img src="https://i.imgur.com/NmENIGx.png" target="_blank" height="60" width="60">
   </a>
-  <a href="https://www.linkedin.com/in/yandemelo/" target="_blank">
+  <a href="https://www.linkedin.com/in/yandemelo/" target="_blank" style="text-decoration: none;">
     <img src="https://i.imgur.com/jsm4olv.png" target="_blank" height="60" width="60">
   </a> 
 </div>
 
-![Snake animation](https://github.com/YandeMelo/YandeMelo/blob/output/github-contribution-grid-snake.svg)
+
