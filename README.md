@@ -8,7 +8,7 @@
       - ✨ Desejando entrar para o mercado de trabalho.
     </p>
   </div>
-  <img src="https://i.imgur.com/63w2asY.jpeg" alt="Sua imagem" style="width: 220px; height: 220px; float: right;">
+  <img src="https://i.imgur.com/63w2asY.jpeg" alt="Sua imagem" div align="right" style="width: 220px; height: 220px; float: right;">
 </div>
 
 ## Tecnologias e Ferramentas 👨‍💻
@@ -50,8 +50,8 @@
 
 ### Ferramentas
 
-<img src="https://i.imgur.com/UzqqqD1.gif" alt="Mundinho" style="width: 160px; height: 90px; float: right; margin-top: 20px; margin-left: 20px;">
-<img src="https://i.imgur.com/7xFFfVM.gif" alt="HelloWorld" style="width: 160px; height: 90px; float: right; margin-top: 20px; margin-left: 20px;">
+<img src="https://i.imgur.com/UzqqqD1.gif" alt="Mundinho" style="width: 160px; height: 90px; float: right; margin-top: 20px; margin-left: 20px;" div align="right">
+<img src="https://i.imgur.com/7xFFfVM.gif" alt="HelloWorld" style="width: 160px; height: 90px; float: right; margin-top: 20px; margin-left: 20px;"div align="right" >
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" >
