@@ -75,10 +75,10 @@
     <img src="https://i.imgur.com/6iaI6Cz.png" target="_blank" height="60" width="60">
   </a>
   <a href="mailto:ymm@ecomp.poli.br" ">
-    <img src="https://i.imgur.com/NmENIGx.png" target="_blank" height="60" width="60" style="margin-right: 10px;>
+    <img src="https://i.imgur.com/NmENIGx.png" target="_blank" height="60" width="60" >
   </a>
   <a href="https://www.linkedin.com/in/yandemelo/" target="_blank" ">
-    <img src="https://i.imgur.com/jsm4olv.png" target="_blank" height="60" width="60" style="margin-right: 20px;>
+    <img src="https://i.imgur.com/jsm4olv.png" target="_blank" height="60" width="60" >
   </a> 
 </div>
 
