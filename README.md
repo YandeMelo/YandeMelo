@@ -1,5 +1,6 @@
 <div style="display: flex; align-items: center;">
   <div style="margin-right: 20px;">
+  <img src="https://i.imgur.com/63w2asY.jpeg" alt="Sua imagem" div align="right" style="width: 220px; height: 220px; float: right;">
     <h3>Olá! Eu me chamo Yan Melo 👋</h3>
     <p>
       - 🔭 Estudante de Engenharia da Computação na Universidade de Pernambuco.<br>
@@ -7,9 +8,8 @@
       - 🤔 Procurando por novas oportunidades de aprendizado.<br>
       - ✨ Desejando entrar para o mercado de trabalho.
     </p>
-  </div>
-  <img src="https://i.imgur.com/63w2asY.jpeg" alt="Sua imagem" div align="right" style="width: 220px; height: 220px; float: right;">
-</div>
+
+
 
 ## Tecnologias e Ferramentas 👨‍💻
 
