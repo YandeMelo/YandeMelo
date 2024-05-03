@@ -4,7 +4,7 @@
 <img src="https://i.imgur.com/63w2asY.jpeg" alt="Sua imagem" align="right" style="width: 220px; height: 220px;">
     <p style="font-size: 18px;">
       - 🔭 Estudante de Engenharia da Computação na Universidade de Pernambuco.<br>
-      - 🌱 Estudando sobre desenvolvimento em Java (Spring e SpringBoot) e React (TypeScript).<br>
+      - 🌱 Estudando sobre desenvolvimento em Java (Spring e SpringBoot) e Angular (TypeScript).<br>
       - 🤔 Procurando por novas oportunidades de aprendizado.<br>
       - ✨ Desejando entrar para o mercado de trabalho.
     </p>
@@ -19,7 +19,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg">
   <img align="center" alt="Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img align="center" alt="Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="Maven" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg">
 </div>
 
