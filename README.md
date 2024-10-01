@@ -22,7 +22,7 @@
   <img align="center" alt="JUnit" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-plain-wordmark.svg">   
   <img align="center" alt="Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="Maven" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" />       
+  <img align="center" alt="Maven" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" />       
 </div>
 
 
