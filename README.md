@@ -3,13 +3,18 @@
     <h2>Olá! Eu me chamo Yan Melo 👋</h2>
 <img src="https://i.imgur.com/63w2asY.jpeg" alt="Sua imagem" align="right" style="width: 220px; height: 220px;">
     <p style="font-size: 18px;">
-      - 🔭 Estudante de Engenharia da Computação na Universidade de Pernambuco.<br>
-      - 🌱 Estudando sobre desenvolvimento em Java (Spring e SpringBoot) e Angular (TypeScript).<br>
-      - 🤔 Procurando por novas oportunidades de aprendizado.<br>
-      - ✨ Desejando entrar para o mercado de trabalho.
+      - 🔭 Desenvolvedor FullStack.<br>
+      - 🌱 Me especializando cada vez mais em Cloud Services.<br>
+      - 🤔 Sempre buscando novas oportunidades de aprendizado.<br>
     </p>
 
+## AWS Certified ☁️
 
+<div style="display: inline_block"><br>
+  <a href="https://www.credly.com/badges/71fa8c38-985d-4397-a66d-e8fd1e61bf6f/public_url" target="_blank">
+    <img align="center" alt="AWS Certified Developer Associate" height="120" width="120" src="https://images.credly.com/size/220x220/images/6d98f1b9-6f9a-4c1c-b1d4-7c8a2f6b6b76/aws-certified-developer-associate.png">
+  </a>
+</div>
 
 
 ### Tecnologias e Ferramentas 👨‍💻
