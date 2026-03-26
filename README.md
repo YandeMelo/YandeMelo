@@ -1,23 +1,24 @@
 <div style="display: flex; align-items: center;">
   <div style="margin-right: 20px;">
     <h2>Olá! Eu me chamo Yan Melo 👋</h2>
-<img src="https://i.imgur.com/63w2asY.jpeg" alt="Sua imagem" align="right" style="width: 220px; height: 220px;">
+    <img src="https://i.imgur.com/63w2asY.jpeg" alt="Sua imagem" align="right" style="width: 220px; height: 220px;">
     <p style="font-size: 18px;">
       - 🔭 Desenvolvedor FullStack.<br>
       - 🌱 Me especializando cada vez mais em Cloud Services.<br>
       - 🤔 Sempre buscando novas oportunidades de aprendizado.<br>
+      - ☁️ AWS Certified
     </p>
-
-## AWS Certified ☁️
-
-<div style="display: inline_block"><br>
-  <a href="https://www.credly.com/badges/71fa8c38-985d-4397-a66d-e8fd1e61bf6f/public_url" target="_blank">
-    <img align="center" alt="AWS Certified Developer Associate" height="100" width="100" src="https://images.credly.com/size/340x340/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png">
-  </a>
+    <p>
+      <div style="display: flex">
+        <a href="https://www.credly.com/badges/71fa8c38-985d-4397-a66d-e8fd1e61bf6f/public_url" target="_blank">
+          <img align="center" alt="AWS Certified Developer Associate" height="96" width="96" src="https://images.credly.com/size/340x340/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png">
+        </a>
+      </div>
+    </p>
+  </div>
 </div>
 
-
-### Tecnologias e Ferramentas 👨‍💻
+## Tecnologias e Ferramentas 👨‍💻
 
 ### Frameworks
 
