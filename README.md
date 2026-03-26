@@ -12,7 +12,7 @@
 
 <div style="display: inline_block"><br>
   <a href="https://www.credly.com/badges/71fa8c38-985d-4397-a66d-e8fd1e61bf6f/public_url" target="_blank">
-    <img align="center" alt="AWS Certified Developer Associate" height="120" width="120" src="https://images.credly.com/size/220x220/images/6d98f1b9-6f9a-4c1c-b1d4-7c8a2f6b6b76/aws-certified-developer-associate.png">
+    <img align="center" alt="AWS Certified Developer Associate" height="120" width="120" src="https://images.credly.com/size/340x340/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png">
   </a>
 </div>
 
