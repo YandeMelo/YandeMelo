@@ -9,11 +9,9 @@
       - ☁️ AWS Certified
     </p>
     <p>
-      <div style="display: flex">
-        <a href="https://www.credly.com/badges/71fa8c38-985d-4397-a66d-e8fd1e61bf6f/public_url" target="_blank">
-          <img align="center" alt="AWS Certified Developer Associate" height="96" width="96" src="https://images.credly.com/size/340x340/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png">
-        </a>
-      </div>
+      <a href="https://www.credly.com/badges/71fa8c38-985d-4397-a66d-e8fd1e61bf6f/public_url" target="_blank">
+        <img alt="AWS Certified Developer Associate" height="96" width="96" src="https://images.credly.com/size/340x340/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png">
+      </a>
     </p>
   </div>
 </div>
@@ -22,66 +20,24 @@
 
 ### Frameworks
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg">
-  <img align="center" alt="Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
-  <img align="center" alt="JUnit" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-plain-wordmark.svg">   
-  <img align="center" alt="Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg">
-  <img align="center" alt="Maven" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg">
-  <img align="center" alt="Maven" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" />       
-</div>
-
-
+![Frameworks](https://skillicons.dev/icons?i=django,spring,angular,maven,androidstudio&theme=dark)
 
 ### Linguagens
-<div style="display: inline_block"><br>
-  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
-  <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="center" alt="C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-</div>
 
-
+![Linguagens](https://skillicons.dev/icons?i=java,python,kotlin,c,cpp,ts,js,html,css&theme=dark)
 
 ### Bancos de Dados
-<div style="display: inline_block"><br>
-  <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="SQLite" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg">
-</div>
 
-
+![Bancos de Dados](https://skillicons.dev/icons?i=mysql,postgresql,sqlite&theme=dark)
 
 ### Ferramentas
 
-<img src="https://i.imgur.com/UzqqqD1.gif" alt="Mundinho" style="width: 160px; height: 90px; float: right; margin-top: 20px; margin-left: 20px;" div align="right">
-<img src="https://i.imgur.com/7xFFfVM.gif" alt="HelloWorld" style="width: 160px; height: 90px; float: right; margin-top: 20px; margin-left: 20px;"div align="right" >
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" >
-  <img align="center" alt="GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
-  <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
-  <img align="center" alt="Swagger" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg">       
-  <img align="center" alt="VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  <img align="center" alt="IntelliJ IDEA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg">
-  <img align="center" alt="PyCharm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg">
-  <img align="center" alt="Postman" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg">
-  <img align="center" alt="Insomnia" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg">
-  
-</div>
-
+![Ferramentas](https://skillicons.dev/icons?i=git,github,docker,vscode,idea,pycharm,postman&theme=dark)
+<img alt="Swagger" height="48" src="https://cdn.simpleicons.org/swagger/85EA2D">
+<img alt="Insomnia" height="48" src="https://cdn.simpleicons.org/insomnia/4000BF">
 
 ## Contate-me
 
-<div> 
-  <a href="https://instagram.com/yan_melo" target="_blank"><img src="https://i.imgur.com/6iaI6Cz.png" target="_blank" height="60" width="60"></a>
-  <a href="mailto:ymm@ecomp.poli.br"><img src="https://i.imgur.com/NmENIGx.png" target="_blank" height="60" width="60"></a>
-  <a href="https://www.linkedin.com/in/yandemelo/" target="_blank"><img src="https://i.imgur.com/jsm4olv.png" target="_blank" height="60" width="60"></a> 
-</div>
-
-
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/yan_melo)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ymm@ecomp.poli.br)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yandemelo/)
